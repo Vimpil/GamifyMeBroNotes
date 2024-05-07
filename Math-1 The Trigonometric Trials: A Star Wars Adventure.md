@@ -13,39 +13,130 @@ As the chosen apprentices, you, along with your fellow Jedi hopefuls, are summon
 ## Ancient Knowledge scripts:
 
 - [bymath.net](https://bymath.net)
-- [Old Ancient Trigonometry sheets](https://www.eeweb.com/wp-content/uploads/tools-assets-math-help-trigonometry-laws-and-identities-small.png)
+- [Trigonometry laws and identities](https://www.eeweb.com/wp-content/uploads/tools-assets-math-help-trigonometry-laws-and-identities-small.png)
 
 ## Simplified tricks:
 
-- [Sum to Product Identities](https://www.youtube.com/watch?v=BCJrQDH1Fok&ab_channel=TeachingBooth)
-- [Maths TRICK Easiest way to Memorize Sin Cos Product into Sum formula](https://www.youtube.com/embed/r64gA34VOnY?feature=oembed)
+### Sum to Product Identities:
 
-### Equations:
+- [Video](https://www.youtube.com/watch?v=BCJrQDH1Fok&ab_channel=TeachingBooth)
 
-1. <img src="https://render.githubusercontent.com/render/math?math=\sqrt{3} \sin(3x) - \cos(3x) = 1">, which simplifies to <img src="https://render.githubusercontent.com/render/math?math=\tan(3\pi) = 3">.
-   - <img src="https://render.githubusercontent.com/render/math?math=x = (-1)^k \cdot (\frac{k\pi}{18} %2B \frac{\pi}{3} \cdot k)">
-   
-2. <img src="https://render.githubusercontent.com/render/math?math=2\sin(2x)\sin(6x) = \cos(4x)">
-   - <img src="https://render.githubusercontent.com/render/math?math=x = \frac{p}{16} %2B \frac{p}{8} \cdot k">
-   
-3. <img src="https://render.githubusercontent.com/render/math?math=2\sin(3x - \frac{\Pi}{3}) = 1">
-   - <img src="https://render.githubusercontent.com/render/math?math=x = -\frac{\Pi n}{18} %2B \frac{\Pi}{9} %2B \frac{\Pi k}{3}">
-   
-4. <img src="https://render.githubusercontent.com/render/math?math=2\sin^2(\frac{x}{2} - \frac{\Pi}{4}) = \sqrt{3}">
-   - <img src="https://render.githubusercontent.com/render/math?math=\tan(\pi(\frac{3}{2} %2B k)) = \tan(\pi k - 3\pi(\frac{1}{2}))">
-   
-5. <img src="https://render.githubusercontent.com/render/math?math=2\sin(x) %2B \cos(2x) > 1">
-   - <img src="https://render.githubusercontent.com/render/math?math=\pi k < x < \frac{\pi}{2} %2B 2\pi k">
+### Sin Cos Product into Sum formula:
 
-6. <img src="https://render.githubusercontent.com/render/math?math=\sqrt{3}\cos(4x) %2B \sin(4x) > \sqrt{2}">
-   - Divide both parts of the inequality to obtain the sum of the cosine and sine angles.
+<iframe width="500" height="375" src="https://www.youtube.com/embed/r64gA34VOnY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Date and Author:
+---
 
-- Posted: April 19, 2024
-- Category: Uncategorized
-- By: Vimpil
+$$\sqrt{3} \sin(3x) - \cos(3x) = 1$$
 
-### Tags:
+The main principle is to divide both parts by 2, resulting in:
 
-Math, Star Wars
+$$\tan(3 \pi) = 3$$
+
+which is equal to:
+
+$$x = (-1)^{\text{k deg}} \cdot \frac{k \pi}{18} + \frac{\pi}{3} \cdot k$$
+
+where \(x=(-1)^{\text{deg k}}\) makes it adaptable for both negative and positive positions.
+
+---
+
+$$2 \sin(2x) \sin(6x) = \cos(4x)$$
+
+$$x = \frac{p}{16} + \frac{p}{8} k$$
+
+This is a transformation of multiplication of sines in the left part of trigonometrical inequality.
+
+---
+
+1.
+
+$$\frac{\sin(\frac{34 \pi}{15}) \cdot \tan(-1125°) \cdot \sin(242°)}{\cos(222°) \cdot \cot(\frac{7 \pi}{6}) \cdot \cos(-692°)}$$
+
+The solution involves reducing angles to 360 degrees and transforming trigonometric functions with subsequent reductions. Afterward, \(\frac{\sqrt{3}}{3}\) is simplified.
+
+2.
+
+$$\frac{\tan\left(-\frac{10}{17}\pi\right) \cdot \sin(-744°) \cdot \cos\left(\frac{4}{7}\pi\right)}{\sin\left(-\frac{11}{6}\pi\right) \cdot \cos(-246°) \cdot \cot(396°)}$$
+
+The key is trigonometric co-function identities.
+
+---
+
+3.1
+
+$$2 \sin\left(3x - \frac{\Pi}{3}\right) = 1$$
+
+$$x = -\frac{\Pi n}{18} + \frac{\Pi}{9} + \frac{\Pi k}{3}$$
+
+The important thing is to move the two to the other side of the equation at the beginning.
+
+3.2
+
+$$\tan^2\left(\frac{x}{2} - \frac{\Pi}{4}\right) = \sqrt{3}$$
+
+Simple.
+
+---
+
+4.1
+
+$$x = \frac{\Pi}{2} + \Pi k$$
+
+and
+
+$$x = -\frac{\Pi}{4} + \Pi k$$
+
+\(-\frac{\Pi}{4}\) is mostly a matter of useful formatting for later use. Be careful about \(\frac{\cos(x)}{\sin(x)}\) if you are dividing by 0; it will be undefined, not 0.
+
+4.2
+
+$$\sin x = \frac{2 + \sqrt{2}}{2 \sqrt{2}}$$
+
+Interesting.
+
+---
+
+5.
+
+$$x = \frac{3\pi}{4} + 2\pi k$$
+
+There is one more limit \( \pi \), I forgot to mention it.
+
+6.
+
+$$2\sin(x) + \cos(2x) > 1$$
+
+$$\pi k < x < \frac{\pi}{2} + 2\pi k$$
+
+The idea is to try to represent the functions as a single trigonometric function.
+
+---
+
+7.
+
+$$2\sin^2\left(\frac{x}{2} - \frac{\Pi}{4}\right) = \sqrt{3}$$
+
+$$\tan\left(\pi\left(\frac{3}{2} + k\right)\right) = \tan\left(\pi k - 3\pi\left(\frac{1}{2}\right)\right)$$
+
+Interesting division of the result into two sides and then determining the remaining cotangent and tangent.
+
+---
+
+8.
+
+$$\sqrt{3}\cos(4x) + \sin(4x) > \sqrt{2}$$
+
+Here, the idea of dividing by both parts of the inequality is clearly implemented.
+
+---
+
+Published on: 2024-04-19 14:33:18
+
+Last modified: 2024-04-19 14:33:18
+
+Category: Uncategorized
+
+Author: Vimpil
+
+Tags: Math, Star Wars
