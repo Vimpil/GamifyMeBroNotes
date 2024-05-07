@@ -1,33 +1,31 @@
 Serbian-1 language Study
 
-[![Serbian](https://codepen.io/Vimpil/embed/preview/yLrOWjM?default-tabs=js%2Cresult&height=300&host=https%3A%2F%2Fcodepen.io&slug-hash=yLrOWjM#?secret=0jL9jDCBAj)](https://codepen.io/Vimpil/pen/yLrOWjM)
+[[Serbian](https://codepen.io/Vimpil/embed/preview/yLrOWjM?default-tabs=js%2Cresult&height=300&host=https%3A%2F%2Fcodepen.io&slug-hash=yLrOWjM#?secret=0jL9jDCBAj)](https://codepen.io/Vimpil/pen/yLrOWjM)
 
 
-Zero level +
-
-1.1 “kao”, “как” +
-2.2 “odluka”, “решенье” +
-3.3 “zahteva”, “требований” +
-4.4 “odnosno”, “то есть” +
-5.5 “preduzeca”, “компания” +
-6.6 “poslovanje”, “управление” +
-7.7 “u svim”, “в общем” +
-8.8 “jer”, “потому что” – – +
-9.9 “ovakvi”, “эти” +
-10.10 “u skladu”, “в соответствии” +
-11.11 “pouzdani”, “проверенный” +
-12.12 “prikazue”, “показывает” +
-13.13 “nisu”, “не сумели” +
-14.14 “strucnjake”, “специалист” +
-15.15 “prema”, “по” – +
-16.16 “bismo”, “более” +
-17.17 “podrucja”, “область” +
-18.18 “sem”, “кроме” +
-19.19 “ali i”, “но и” +
-20.20 “zbog”, “потому что” – +
-21.21 “usmeravaju”, “направлены” +
-22.22 “ka”, “по направлению к” +
-23.23 “zadovoljavanju”, “удовлетворения” +
+1.1: "kao", "как"
+2.2: "odluka", "решенье"
+3.3: "zahteva", "требований"
+4.4: "odnosno", "то есть"
+5.5: "preduzeca", "компания"
+6.6: "poslovanje", "управление"
+7.7: "u svim", "в общем"
+8.8: "jer", "потому что"
+9.9: "ovakvi", "эти"
+10.10: "u skladu", "в соответствии"
+11.11: "pouzdani", "проверенный"
+12.12: "prikazue", "показывает"
+13.13: "nisu", "не сумели"
+14.14: "strucnjake", "специалист"
+15.15: "prema", "по"
+16.16: "bismo", "более"
+17.17: "podrucja", "область"
+18.18: "sem", "кроме"
+19.19: "ali i", "но и"
+20.20: "zbog", "потому что"
+21.21: "usmeravaju", "направлены"
+22.22: "ka", "по направлению к"
+23.23: "zadovoljavanju", "удовлетворения"
 
 total: 24 words
 
