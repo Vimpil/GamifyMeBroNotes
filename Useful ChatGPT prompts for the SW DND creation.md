@@ -1,4 +1,4 @@
-# Useful ChatGPT prompts
+# Useful ChatGPT prompts for the SW DND creation
 
 ## MAIN CHARACTER GAME CREATION
 
