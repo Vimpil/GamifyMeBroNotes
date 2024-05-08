@@ -151,8 +151,7 @@ second answer is different from the solution template \( \frac{3\sqrt{3} + 3}{\s
 
 In triangle 4ABC, it is given: α = π/4, β = π/3, and the radius of the circumscribed circle R = 2√6. Determine the other basic elements of the triangle.
 
-"All is easily found, the only thing worth remembering is the simplification of the answer: \( c = 6 + 2\sqrt{3} = 2(3+\sqrt{3}) \)"
-
+All is easily found, the only thing worth remembering is the simplification of the answer: c = 6 + 2√3 = 2(3+√3)
 
 Published on: 2024-04-19 14:33:18
 
