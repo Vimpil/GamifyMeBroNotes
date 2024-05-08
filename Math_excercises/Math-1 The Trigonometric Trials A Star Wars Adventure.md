@@ -131,6 +131,20 @@ Here, the idea of dividing by both parts of the inequality is clearly implemente
 
 ---
 
+9.
+
+$$4cos²(x) + 2(√3 - 1)cos(x) - √3 ≤ 0$$
+
+This equation has one completely clear solution, while the second one can only be calculated with a calculator. The answer key does not provide the correct solution.
+
+---
+
+10.
+
+In triangle 4ABC, determine the other basic elements if c = 3√2, α = 60°, and β = 75°.
+
+second answer is different from the solution template \( \frac{3\sqrt{3} + 3}{\sqrt{2}} \)
+
 Published on: 2024-04-19 14:33:18
 
 Last modified: 2024-04-19 14:33:18
