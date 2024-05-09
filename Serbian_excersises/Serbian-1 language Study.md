@@ -424,42 +424,42 @@ Ninth level +
   
 Tenth level  
   
-1.1. prekvalifikacija – переквалификация –  
-2.2. kasnijoj – позже – – –  
-3.3. daljeg – дальнейший  
-4.4. obono – вперёд –  
+1.1. prekvalifikacija – переквалификация – +
+2.2. kasnijoj – позже – – – - - - -
+3.3. daljeg – дальнейший + 
+4.4. obono – вперёд – - - - - +
 5.5. tabula knih – книжная табличка – +  
-6.6. kasneka – поздний –  
-7.7. koi me bavite – что меня интересует – –  
-8.8. doprimoc – помощь –  
-9.9. odmah – сейчас –  
-10.10. glaksek – глагол – – – –  
-11.11. obovesa – важный – – –  
-12.12. svim – всем +  
+6.6. kasneka – поздний – -
+7.7. koi me bavite – что меня интересует – – - - -
+8.8. doprimoc – помощь – + - +
+9.9. odmah – сейчас – - - - -
+10.10. glaksek – глагол – – – – - - - 
+11.11. obovesa – важный – – – - - -
+12.12. svim – всем + - -
 13.13. obuhovatno – всесторонний – – +  
-14.14. izvogenje – извинение –  
-15.15. kompletnih – полный –  
-16.16. boratenja – борьба –  
+14.14. izvogenje – извинение – - - + -
+15.15. kompletnih – полный – + 
+16.16. boratenja – борьба – - +  
 17.17. mova – язык – +  
-18.18. petnalovec – пятьдесят –  
+18.18. petnalovec – пятьдесят – - +
 19.19. budova – здание – +  
 20.20. fov casove – время уроков – –  
-21.21. usmeni – устный –  
-22.22. sav – весь  
-23.23. gradiva – материал – – –  
-24.24. eventualnog – возможный –  
-25.25. korigovati – корректировать – – – –  
-26.26. predavanja – лекции  
+21.21. usmeni – устный – +  
+22.22. sav – весь - - -
+23.23. gradiva – материал – – – -
+24.24. eventualnog – возможный – - 
+25.25. korigovati – корректировать – – – – - - +
+26.26. predavanja – лекции + -
 27.27. bratece – братский –  
-28.28. vecu – больший –  
-29.29. prosek – средний  
-30.30. pripremete – подготовка – – –  
-31.31. prvu liju – первую лигу –  
-32.32. jos – ещё  
-33.33. nalaknacih – расчёсанный –  
-34.34. smima – шум – – –  
-35.35. snimati – записывать  
-36.36. sapridavnisa – дополнительный  
-37.37. tucno – толстый –  
-38.38. potrenuda zarasporo – нужда в срочной помощи –  
+28.28. vecu – больший – - +
+29.29. prosek – средний - -
+30.30. pripremete – подготовка – – – - + - +
+31.31. prvu liju – первую лигу – - - +
+32.32. jos – ещё + -
+33.33. nalaknacih – расчёсанный – - - - -
+34.34. smima – шум – – – - - - -
+35.35. snimati – записывать - - - +
+36.36. sapridavnisa – дополнительный - - -
+37.37. tucno – толстый – - - + - +
+38.38. potrenuda zarasporo – нужда в срочной помощи – - - +
 
