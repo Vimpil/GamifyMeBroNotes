@@ -154,6 +154,14 @@ In triangle 4ABC, it is given: α = π/4, β = π/3, and the radius of the circu
 All is easily found, the only thing worth remembering is the simplification of the answer: c = 6 + 2√3 = 2(3+√3)
 Used formula: $\( 2R = \frac{a}{\sin{a}} \)$
 
+---
+
+12.
+
+U trouglu 4ABC zadate su sve tri stranice a = 2√2, b = 2√3 i c = √(2(1 + √3)). Odrediti uglove trougla i poluprečnik opisanog kruga.
+
+We can't achieve nice, neat values, but the cosine theorem, along with the theorem relating the radius of the circumscribed circle to the area and sides, handles everything else just fine.
+
 Published on: 2024-04-19 14:33:18
 
 Last modified: 2024-04-19 14:33:18
