@@ -6,7 +6,7 @@
 - **Intelligence:** 18
 - **Wisdom:** 13
 - **Charisma:** 11
-- **Serbian Linguistic Proficiency:** Level 4/100
+- **Serbian Linguistic Proficiency:** Level 5/100
 - **Force Geometry:** Trigonometrys
 
 **Equipment:**
