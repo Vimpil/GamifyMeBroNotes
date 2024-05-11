@@ -421,6 +421,8 @@ Ninth level +
 34.34. deonicar – акционер – – – – +- +  
 35.35. nudi – предлагает – – – +  
 36.36. proizvodnje – производства – – – – +  
+
+total: 35 words
   
 Tenth level  +
   
@@ -463,3 +465,6 @@ Tenth level  +
 37.37. tucno – толстый – - - + - +  
 38.38. potrenuda zarasporo – нужда в срочной помощи – - - +  
 
+total: 38 words
+
+sumary: 400
