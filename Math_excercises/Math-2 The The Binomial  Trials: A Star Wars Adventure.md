@@ -8,3 +8,7 @@ Master Trigonos led the young Jedi apprentices into the next chapter of their tr
 
 $`\left(2 \times \sqrt[x]{2^{-1}} + \frac{4}{\sqrt[4-x]{4}}\right)^6`$
 the ansers are 3+sqrof 5 and 3-sqrof 5 that are different from original solution
+
+2.
+$`\left( x \sqrt[4]{x^{3}} + \frac{\sqrt{x}}{x^{2}} \right)^{n}`$
+here requires knowledge of basic formulas, nothing extra
