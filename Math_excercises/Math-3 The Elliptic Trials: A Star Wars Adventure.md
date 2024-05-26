@@ -18,4 +18,4 @@ Use the formula $\(x + y + p = 0\)$ for substitution into the ellipse equation a
     5) Use the formula for finding the tangent of the angle between two line equations: $\(\tan \theta = \frac{k_1 - k_2}{1 + k_1 k_2}\)$.  
 
 4. Kroz tačku \( A(-2, -1) \) postaviti tetivu elipse \( x^2 + 4y^2 = 12 \), tako da \( A \) bude središte tetive.
-elips equtation - > x0 and y0 elipse equatation; Count S that is equal to elipse equatation and counts instead of x in power of 2 -=> x1 in power of 2; y1 in power of 2.
+elips equtation - > x0 and y0 elipse equatation; Count S that is equal to elipse equatation and counts instead of x in power of 2 -=> x0 in power of 2; y0 in power of 2, after you will count the equatation with this x0 and y0 than you will make it equal to x0x y0y and you will got the line function equatation.
