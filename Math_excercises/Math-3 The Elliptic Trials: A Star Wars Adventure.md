@@ -16,3 +16,6 @@ Use the formula $\(x + y + p = 0\)$ for substitution into the ellipse equation a
     3) Substitute \(P(0;8)\) into the ellipse equation with the point of intersection $\(\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1\)$ to find $\(y\)$ as the point of     intersection. This is how the coordinates of the tangents' points of intersection with the ellipse are found.  
     4) Starting from point $\(P(0;8)\)$, substitute the values into $\(y = kx + b\)$, obtaining $\(b = -8k\)$; thus, $\(y = kx - 8k\)$. Substitute $\(y\)$ into the equation of the   ellipse to find the values of $\(k\)$ for the tangent lines. This requires bringing the equation to a quadratic form to obtain the solutions.  
     5) Use the formula for finding the tangent of the angle between two line equations: $\(\tan \theta = \frac{k_1 - k_2}{1 + k_1 k_2}\)$.  
+
+4. Kroz tačku \( A(-2, -1) \) postaviti tetivu elipse \( x^2 + 4y^2 = 12 \), tako da \( A \) bude središte tetive.
+elips equtation - > x0 and y0 elipse equatation; Count S that is equal to elipse equatation and counts instead of x in power of 2 -=> x1 in power of 2; y1 in power of 2.
