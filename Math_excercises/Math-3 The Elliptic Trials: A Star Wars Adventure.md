@@ -29,3 +29,5 @@ where:
 - `n` is the y-intercept of the tangent line.
 
 This formula is used to check the tangency condition between a line and an ellipse.
+
+Equation $\[a^2 k^2 + b^2 = n^2\]$. We take the parameters from the two tangent lines and based on this create two equations; solve the system of equations (in this case, the best option is to subtract one from the other) to obtain $\(a^2\)$ and $\(b^2\)$, which gives us the desired equation.
