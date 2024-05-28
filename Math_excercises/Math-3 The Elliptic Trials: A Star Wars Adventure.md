@@ -20,7 +20,7 @@ Use the formula $\(x + y + p = 0\)$ for substitution into the ellipse equation a
 4. Kroz tačku \( A(-2, -1) \) postaviti tetivu elipse \( x^2 + 4y^2 = 12 \), tako da \( A \) bude središte tetive.
 elips equtation - > x0 and y0 elipse equatation; Count S that is equal to elipse equatation and counts instead of x in power of 2 -=> x0 in power of 2; y0 in power of 2, after you will count the equatation with this x0 and y0 than you will make it equal to x0x y0y and you will got the line function equatation.
 
-5. Odredti jednaˇcinu elipse koju dodiruju prave x + y − 8 = 0 i x + 3y + 16 = 0.
+5. Odredti jednaˇcinu elipse koju dodiruju prave x + y − 8 = 0 i x + 3y + 16 = 0.  
 $\[a^2 k^2 + b^2 = n^2\]$
 where:
 - `a` is the semi-major axis of the ellipse,
