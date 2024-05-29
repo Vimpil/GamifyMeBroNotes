@@ -482,29 +482,29 @@ Eleventh level  +
 1.9. vizija – зрение +  
 1.10. skarta – металлолом +  
 1.11. pogod – подходящий - - - - - - - - - - - - - +  
-1.12. prepozna – распознавать - - +
-1.13. kvar – сбой +
-1.14. PIS – Poslovni Informacioni Sistemi +
-1.15. prodajom – продажей +
-1.16. nabavkama – закупками - - - - + - - - + - - + - +
-1.17. zalihama – запас - - - - - - + - - - - - - - +
-1.18. barijere – барьеры +
-1.19. ulaska – входа +
-1.20. akteri – актеры +
-1.21. drugaci – разные +
-1.22. preduzetnikom – предприниматель +
-1.23. pazni – осторожный +
-1.24. hvalavam na pazni – спасибо вам за внимание - - +
-1.25. sbegam – убегаю +
-1.26. vrlako – очень +
-1.27. osbeni – личные + - +
-1.28. zaustavlena – остановлена +
-1.29. glich – сбой +
-1.30. kolo – схема + - +
-1.31. jezgra – основной +
-1.32. zadataku – задача + - +
-1.33. postoji – существует - + - +
+1.12. prepozna – распознавать - - +  
+1.13. kvar – сбой +  
+1.14. PIS – Poslovni Informacioni Sistemi +  
+1.15. prodajom – продажей +  
+1.16. nabavkama – закупками - - - - + - - - + - - + - +  
+1.17. zalihama – запас - - - - - - + - - - - - - - +  
+1.18. barijere – барьеры +  
+1.19. ulaska – входа +  
+1.20. akteri – актеры +  
+1.21. drugaci – разные +  
+1.22. preduzetnikom – предприниматель +  
+1.23. pazni – осторожный +  
+1.24. hvalavam na pazni – спасибо вам за внимание - - +  
+1.25. sbegam – убегаю +  
+1.26. vrlako – очень +  
+1.27. osbeni – личные + - +  
+1.28. zaustavlena – остановлена +  
+1.29. glich – сбой +  
+1.30. kolo – схема + - +  
+1.31. jezgra – основной +  
+1.32. zadataku – задача + - +  
+1.33. postoji – существует - + - +  
 
-total: 33 words
+total: 33 words  
 
-sumary: 433
+sumary: 433  
