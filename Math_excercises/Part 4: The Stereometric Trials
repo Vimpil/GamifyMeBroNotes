@@ -8,4 +8,5 @@ And with that, the apprentices embarked on their geometric adventure, ready to m
 
 1. Ivice kvadra su tri uzasopna prirodna broja. Odrediti površinu tog kvadra ako je njegov dijagonalni presek kvadrat.
 Make the sides variable with a difference in length as it is a series of consecutive natural numbers, calculate the diagonal using the Pythagorean theorem, then calculate the volume of the cube.
-
+2. Ivice kvadra su tri uzasopna prirodna broja. Odrediti površinu tog kvadra ako je njegov dijagonalni presek kvadrat.
+Do not forget that the given area is that of the diagonal, everything else is quite clear.
