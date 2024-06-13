@@ -6,24 +6,24 @@
 
 ### Solution
 1. Calculate the length of the other cathetus using the Pythagorean theorem:
-   $
+   $\[
    b = \sqrt{c^2 - a^2} = \sqrt{13^2 - 12^2} = \sqrt{169 - 144} = \sqrt{25} = 5 \, \text{cm}
-   $
+   \]$
 
 2. Determine the height of the prism:
-   $
+   $\[
    H = 2b = 2 \times 5 = 10 \, \text{cm}
-   $
+   \]$
 
 3. Calculate the area of the triangular base:
-   $
+   $\[
    A = \frac{1}{2} \times a \times b = \frac{1}{2} \times 12 \times 5 = 30 \, \text{cm}^2
-   $
+   \]$
 
 4. Calculate the volume of the prism:
-   $
+   $\[
    V = A \times H = 30 \times 10 = 300 \, \text{cm}^3
-   $
+   \]$
 
 The volume of the prism is **300 cm³**.
 
@@ -32,17 +32,17 @@ The volume of the prism is **300 cm³**.
 **Ivice kvadra su tri uzastopna prirodna broja. Odrediti površinu tog kvadra ako je njegov dijagonalni presek kvadrat.**
 
 ### Solution
-1. Let the sides of the cuboid be \(a\), \(a+1\), and \(a+2\).
+1. Let the sides of the cuboid be $\(a\)$, $\(a+1\)$, and $\(a+2\)$.
 
 2. The diagonal cross-section forms a square:
-   $
+   $\[
    (a^2 + (a+1)^2 + (a+2)^2) = 2 \cdot (a(a+2)) \implies a^2 + (a+1)^2 + (a+2)^2 = 2a(a+2)
-   $
+   \]$
 
 3. Simplify the equation:
-   $
+   $\[
    a^2 + (a^2 + 2a + 1) + (a^2 + 4a + 4) = 2a^2 + 4a \implies 3a^2 + 6a + 5 = 2a^2 + 4a \implies a^2 + 2a + 5 = 0
-   $
+   \]$
 
 This equation has no real solutions, so we should reconsider the problem statement or assumptions.
 
@@ -51,22 +51,22 @@ This equation has no real solutions, so we should reconsider the problem stateme
 **Površina dijagonalnog preseka kocke je 36√2 cm². Izračunati zapreminu te kocke.**
 
 ### Solution
-1. Let \(a\) be the side length of the cube.
+1. Let $\(a\)$ be the side length of the cube.
 
 2. The diagonal cross-section of a cube is a square whose area is given by:
-   $
+   $\[
    A = a^2 \sqrt{2} = 36\sqrt{2}
-   $
+   \]$
 
-3. Solve for \(a\):
-   $
+3. Solve for $\(a\)$:
+   $\[
    a^2 \sqrt{2} = 36\sqrt{2} \implies a^2 = 36 \implies a = 6 \, \text{cm}
-   $
+   \]$
 
 4. Calculate the volume of the cube:
-   $
+   $\[
    V = a^3 = 6^3 = 216 \, \text{cm}^3
-   $
+   \]$
 
 The volume of the cube is **216 cm³**.
 
@@ -75,33 +75,34 @@ The volume of the cube is **216 cm³**.
 **Baza prave prizme je jednakokraki trougao čiji krak ima dužinu 5, visina prizme iznosi 10, a zapremina 120. Izračunati osnovicu a baze i površinu prizme.**
 
 ### Solution
-1. Let the base \(a\) of the isosceles triangle be determined.
+1. Let the base $\(a\)$ of the isosceles triangle be determined.
 
-2. The height \(h\) from the vertex to the base in the isosceles triangle divides the base into two equal parts:
-   $
+2. The height $\(h\)$ from the vertex to the base in the isosceles triangle divides the base into two equal parts:
+   $\[
    h = \sqrt{5^2 - \left(\frac{a}{2}\right)^2}
-   $
+   \]$
 
 3. Calculate the area of the triangular base:
-   $
+   $\[
    A = \frac{1}{2} \times a \times h
-   $
+   \]$
 
 4. Using the volume of the prism:
-   $
+   $\[
    V = A \times H = 120 \implies \frac{1}{2} \times a \times h \times 10 = 120 \implies a \times h = 24
-   $
+   \]$
 
-5. Solve for \(a\) and \(h\):
-   $
+5. Solve for $\(a\)$ and $\(h\)$:
+   $\[
    h = \sqrt{25 - \left(\frac{a}{2}\right)^2} \implies a \times \sqrt{25 - \left(\frac{a}{2}\right)^2} = 24
-   $
+   \]$
 
-This can be solved numerically or by further algebraic manipulation to find the exact value of \(a\).
+This can be solved numerically or by further algebraic manipulation to find the exact value of $\(a\)$.
 
 6. Calculate the surface area of the prism:
-   $
+   $\[
    SA = 2 \times A + P \times H
-   $
+   \]$
 
 The exact numeric solutions require solving the quadratic equation.
+
