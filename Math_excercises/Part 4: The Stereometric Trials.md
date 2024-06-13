@@ -19,4 +19,6 @@ no solution yet
 6. Osnova prizme je trapez ˇcije su osnovice 24 cm i 10 cm, a kraci 13 cm i 15 cm. Izraˇcunati površinu i zapreminu prizme ako je njena visina jednaka visini trapeza.  
 simple to go  
 7. Izraˇcunati površinu pravilne ˇcetvorostrane jednakoiviˇcne piramide, ako je površina omotaˇca 36√3 cm2.
-simple to go, go along with arithmetics
+simple to go, go along with arithmetics  
+8. Izraˇcunati zapreminu pravilne šestostrane piramide ako je osnovna ivica 6 cm, a površina jedne boˇcne strane 18 cm2.
+simply to go  
