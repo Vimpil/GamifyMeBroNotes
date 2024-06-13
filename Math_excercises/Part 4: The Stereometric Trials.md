@@ -14,3 +14,5 @@ simpmle to solve just keep the calculations clean
 Povrsina - area
 4. Baza prave prizme je jednakokraki trougao ˇciji krak ima dužinu 5, visina prizme iznosi 10, a zapremina 120. Izraˇcunati osnovicu a baze i površinu prizme.
 Do not forget to transform back $\( x^2 = a \)$
+5. Površina ve´ceg dijagonalnog preseka pravilne šestostrane prizme iznosi 24 cm2, a obim 22 cm. Izraˇcunati površinu i zapreminu date šestostrane prizme.
+no solution yet
