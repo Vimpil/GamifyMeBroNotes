@@ -8,11 +8,13 @@ And with that, the apprentices embarked on their geometric adventure, ready to m
 
 1. Osnova prave trostrane prizme je pravougli trougao čija je kateta 12 cm i hipotenuza 13 cm. Ako je visina prizme dvostruko veća od dužine druge katete, izračunati zapreminu te prizme.  
 simple to solve  
-2. Ivice kvadra su tri uzastopna prirodna broja. Odrediti površinu tog kvadra ako je njegov dijagonalni presek kvadrat.
+2. Ivice kvadra su tri uzastopna prirodna broja. Odrediti površinu tog kvadra ako je njegov dijagonalni presek kvadrat.  
 simpmle to solve just keep the calculations clean  
-3. Površina dijagonalnog preseka kocke je 36√2 cm2. Izraˇcunati zapreminu te kocke.
-Povrsina - area
-4. Baza prave prizme je jednakokraki trougao ˇciji krak ima dužinu 5, visina prizme iznosi 10, a zapremina 120. Izraˇcunati osnovicu a baze i površinu prizme.
-Do not forget to transform back $\( x^2 = a \)$
-5. Površina ve´ceg dijagonalnog preseka pravilne šestostrane prizme iznosi 24 cm2, a obim 22 cm. Izraˇcunati površinu i zapreminu date šestostrane prizme.
+3. Površina dijagonalnog preseka kocke je 36√2 cm2. Izraˇcunati zapreminu te kocke.  
+Povrsina - area  
+4. Baza prave prizme je jednakokraki trougao ˇciji krak ima dužinu 5, visina prizme iznosi 10, a zapremina 120. Izraˇcunati osnovicu a baze i površinu prizme.  
+Do not forget to transform back $\( x^2 = a \)$  
+5. Površina ve´ceg dijagonalnog preseka pravilne šestostrane prizme iznosi 24 cm2, a obim 22 cm. Izraˇcunati površinu i zapreminu date šestostrane prizme.  
 no solution yet
+6. Osnova prizme je trapez ˇcije su osnovice 24 cm i 10 cm, a kraci 13 cm i 15 cm. Izraˇcunati površinu i zapreminu prizme ako je njena visina jednaka visini trapeza.  
+simple to go
