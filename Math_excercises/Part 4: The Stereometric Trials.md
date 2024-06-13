@@ -17,4 +17,6 @@ Do not forget to transform back $\( x^2 = a \)$
 5. Površina ve´ceg dijagonalnog preseka pravilne šestostrane prizme iznosi 24 cm2, a obim 22 cm. Izraˇcunati površinu i zapreminu date šestostrane prizme.  
 no solution yet
 6. Osnova prizme je trapez ˇcije su osnovice 24 cm i 10 cm, a kraci 13 cm i 15 cm. Izraˇcunati površinu i zapreminu prizme ako je njena visina jednaka visini trapeza.  
-simple to go
+simple to go  
+7. Izraˇcunati površinu pravilne ˇcetvorostrane jednakoiviˇcne piramide, ako je površina omotaˇca 36√3 cm2.
+simple to go, go along with arithmetics
