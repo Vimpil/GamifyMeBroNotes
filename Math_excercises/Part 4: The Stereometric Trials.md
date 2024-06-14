@@ -22,3 +22,14 @@ simple to go
 simple to go, go along with arithmetics  
 8. Izraˇcunati zapreminu pravilne šestostrane piramide ako je osnovna ivica 6 cm, a površina jedne boˇcne strane 18 cm2.
 simply to go  
+9.  Dijagonalni presek pravilne ˇcetvorostrane zarubljene piramide je 132 cm2, boˇcna ivica je s = 13 cm, a visina H = 12 cm. Izraˇcunati zapreminu zarubljene piramide.
+do not forget the main formula of truncate pyramid
+## Volume of a Truncated Pyramid
+
+The formula for the volume of a truncated pyramid is:
+
+$\[ \text{Volume} = \frac{1}{3} \left( a^2 + b^2 + ab \right) \]$
+
+where:
+- $\( a \)$ is the side length of the bottom base
+- $\( b \)$ is the side length of the top base
