@@ -32,6 +32,8 @@ $\[ \text{Volume} = \frac{1}{3} \left( a^2 + b^2 + ab \right) \]$
 
 where:
 - $\( a \)$ is the side length of the bottom base
-- $\( b \)$ is the side length of the top base
-10. Kocka dijagonale dužine 10√3 cm upisana je u valjak. Izraˇcunati zapreminu tog valjka.
-Derive the formula for the diagonal of a cube separately, and everything will go in the best way.
+- $\( b \)$ is the side length of the top base  
+10. Kocka dijagonale dužine 10√3 cm upisana je u valjak. Izraˇcunati zapreminu tog valjka.  
+Derive the formula for the diagonal of a cube separately, and everything will go in the best way.  
+11. Dijagonala osnog preseka valjka obrazuje sa osnovom ugao od 30◦. Ako je ta dijagonala 12 cm, izraˇcunati površinu i zapreminu tog valjka.  
+  The main thing to understand is that the problem specifies the intersection with the base.  
