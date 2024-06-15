@@ -38,4 +38,6 @@ Derive the formula for the diagonal of a cube separately, and everything will go
 11. Dijagonala osnog preseka valjka obrazuje sa osnovom ugao od 30◦. Ako je ta dijagonala 12 cm, izraˇcunati površinu i zapreminu tog valjka.  
   The main thing to understand is that the problem specifies the intersection with the base.  
 12. Osni presek prave kupe je jednakokraki pravougli trougao, ˇcija je hipotenuza dužine 8√2 cm. Izraˇcunati zapreminu te kupe.  
-kupe means cilinder
+kupe means cilinder  
+13. Omotaˇc kupe ima površinu 240πcm2. Izraˇcunati zapreminu kupe, ako se polupreˇcnik osnove i visina odnose kao 3 : 4.  
+do not forget about the omotac, keep an eye on the calculation
