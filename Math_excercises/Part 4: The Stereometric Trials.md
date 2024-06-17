@@ -40,4 +40,6 @@ Derive the formula for the diagonal of a cube separately, and everything will go
 12. Osni presek prave kupe je jednakokraki pravougli trougao, ˇcija je hipotenuza dužine 8√2 cm. Izraˇcunati zapreminu te kupe.  
 kupe means cilinder  
 13. Omotaˇc kupe ima površinu 240πcm2. Izraˇcunati zapreminu kupe, ako se polupreˇcnik osnove i visina odnose kao 3 : 4.  
-do not forget about the omotac, keep an eye on the calculation
+do not forget about the omotac, keep an eye on the calculation  
+14. Trougao sa stranicama 10dm, 17dm, 21dm rotira oko najve´ce stranice. Izraˇcunati površinu i zapreminu dobijenog tela.
+there is two cones there so that is leading to the solution
