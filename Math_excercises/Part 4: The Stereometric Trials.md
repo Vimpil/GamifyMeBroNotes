@@ -46,5 +46,6 @@ where:
 15. Data je površina zarubljene kupe P = 216πdm2. Razlika polupreˇcnika osnova je 5dm i izvodnica je 13dm. Odrediti zapreminu zarubljene kupe.  
   do not forget the pi; truncate cone area + truncate cone volume formulas
 16. Ako je zapremina polulopte 18πcm3, izraˇcunati njenu površinu.  
-  do not forget he pi;  
-
+  do not forget he pi;
+17. Kvadrat i u njemu upisani krug rotiraju oko simetrale stranice kvadrata. U kojoj razmeri se nalaze zapremine tako dobijenih tela?  
+  simple to go if you know that sphere volume is two cilinders volume combination  
