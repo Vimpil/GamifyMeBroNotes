@@ -41,7 +41,10 @@ where:
   kupe means cilinder  
 13. Omotaˇc kupe ima površinu 240πcm2. Izraˇcunati zapreminu kupe, ako se polupreˇcnik osnove i visina odnose kao 3 : 4.  
   do not forget about the omotac, keep an eye on the calculation  
-14. Trougao sa stranicama 10dm, 17dm, 21dm rotira oko najve´ce stranice. Izraˇcunati površinu i zapreminu dobijenog tela.
-  there is two cones there so that is leading to the solution
-15. Data je površina zarubljene kupe P = 216πdm2. Razlika polupreˇcnika osnova je 5dm i izvodnica je 13dm. Odrediti zapreminu zarubljene kupe.
+14. Trougao sa stranicama 10dm, 17dm, 21dm rotira oko najve´ce stranice. Izraˇcunati površinu i zapreminu dobijenog tela.  
+  there is two cones there so that is leading to the solution  
+15. Data je površina zarubljene kupe P = 216πdm2. Razlika polupreˇcnika osnova je 5dm i izvodnica je 13dm. Odrediti zapreminu zarubljene kupe.  
   do not forget the pi; truncate cone area + truncate cone volume formulas
+16. Ako je zapremina polulopte 18πcm3, izraˇcunati njenu površinu.  
+  do not forget he pi;  
+
