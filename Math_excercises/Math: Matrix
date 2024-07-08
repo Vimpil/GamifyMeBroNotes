@@ -1,1 +1,7 @@
 https://math.stackexchange.com/questions/4129833/volume-of-a-tetrahedron-using-determinants - Volume of a tetrahedron using determinants
+
+Wolfram Demonstrations Project - Tetrahedron Volume: This site offers an interactive demonstration showing how the volume is calculated using determinants. You can manipulate the vertices to see how the volume changes.
+http://demonstrations.wolfram.com/TetrahedronVolume/
+
+Georgia Tech Textbook on Determinants and Volumes: This source explains the relationship between determinants and volumes, including detailed examples and visual aids that show how changing the rows of a matrix affects the volume of the parallelepiped it defines.
+http://textbooks.math.gatech.edu/
