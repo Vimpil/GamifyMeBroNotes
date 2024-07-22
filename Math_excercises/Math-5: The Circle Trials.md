@@ -5,5 +5,5 @@ For more details, refer to the discussion on the [Matemanija Forum](https://foru
 https://www.desmos.com/calculator/tobmupvwey
 
 8.19. Kružnica sa centrom S(3,−1) odseca na pravoj l : 2x − 5y + 18 = 0 tetivu dužine 6.
-Na´ci jednaˇcinu ove kružnice.
+Na´ci jednaˇcinu ove kružnice. 
 Cosinus theorema c^2=a^2+b^2-2ab*cosC
