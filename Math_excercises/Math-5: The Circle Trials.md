@@ -9,5 +9,5 @@ Na´ci jednaˇcinu ove kružnice.
 Cosinus theorema c^2=a^2+b^2-2ab*cosC
 
 8.20. Iz taˇcke A(4, 2) van kružnice konstruisane su tangente na kružnicu x2 + y2 − 2x + 6y + 5 = 0. Odrediti površinu trougla ˇcija su temena data taˇcka A i dodirne taˇcke pomenutih tangenata.
-Can't be resolved in the way that in the book, alternative anser:
+Can't be resolved in the way that in the book, alternative answer:
 https://www.desmos.com/calculator/c1ipdxv7rl
