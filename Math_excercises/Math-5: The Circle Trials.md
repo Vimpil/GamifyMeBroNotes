@@ -11,3 +11,7 @@ Cosinus theorema c^2=a^2+b^2-2ab*cosC
 8.20. Iz taˇcke A(4, 2) van kružnice konstruisane su tangente na kružnicu x2 + y2 − 2x + 6y + 5 = 0. Odrediti površinu trougla ˇcija su temena data taˇcka A i dodirne taˇcke pomenutih tangenata.
 Can't be resolved in the way that in the book, alternative answer:
 https://www.desmos.com/calculator/c1ipdxv7rl
+
+8.24. Odredti jednaˇcinu elipse koju dodiruju prave x + y − 8 = 0 i x + 3y + 16 = 0.
+Answer in book is not correct, visualization:  
+[https://www.desmos.com/calculator/c1ipdxv7rl](https://www.desmos.com/calculator/mi8ed5vpjo)  
