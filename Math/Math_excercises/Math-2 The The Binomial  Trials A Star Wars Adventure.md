@@ -20,3 +20,13 @@ here requires knowledge of basic formulas, nothing extra
 Na´ci peti ˇclan razvoja binoma $`\left( \sqrt{x} + \sqrt{\frac{1}{x}} \right)^n`$ ako je odnos koeficijenata tre´ceg i drugog
 ˇclana jednak 7/2.
 Do not forget that each term of the binomial starts from the zeroth term.
+
+------
+## Arithmetical Progression.
+
+**9.1** Zadatak 9.1 Izraˇcunati a1 i d u aritmetiˇckom nizu ako je: ak = 105, k = 16, Sk = 840.
+wrong task, result should be different
+
+9.3 Cetvrti ˇclan aritmetiˇcke progresije je ˇ 9, a deveti ˇclan je −6. Koliko ˇclanova ovog niza treba sabrati da bi se dobio zbir 54?
+
+-6 the minus is really small

@@ -162,6 +162,11 @@ U trouglu 4ABC zadate su sve tri stranice a = 2√2, b = 2√3 i c = √(2(1 + �
 
 We can't achieve nice, neat values, but the cosine theorem, along with the theorem relating the radius of the circumscribed circle to the area and sides, handles everything else just fine.
 
+
+6,8 https://www.quora.com/What-is-the-value-of-x-if-sinx-sqrt-3-cosx-2
+What is the value of x if sinx+sqrt(3) cosx=2?
+
+
 Published on: 2024-04-19 14:33:18
 
 Last modified: 2024-04-19 14:33:18

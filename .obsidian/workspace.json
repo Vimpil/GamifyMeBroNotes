@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/available-job-internships.md",
+                "file": "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internship/available-job-internships.md",
+                "file": "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internship/available-job-internships.md",
+                "file": "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internship/available-job-internships.md"
+                "file": "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   "active": "5ea9b8677eb88a81",
   "lastOpenFiles": [
     "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
-    "internship/available-job-internships.md",
-    "Math/Trigonometry/Base Trigonometry Formulas.md",
-    "Math/Math_excercises/Math-4 The Stereometric Trials.md",
     "Math/Math_excercises/Math-3 The Elliptic Trials A Star Wars Adventure.md",
+    "Math/Trigonometry/Base Trigonometry Formulas.md",
+    "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md",
     "Math/Math_excercises/Math-5 The Circle Trials.md",
-    "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md"
+    "Math/Math_excercises/Math-4 The Stereometric Trials.md",
+    "internship/available-job-internships.md"
   ]
 }
