@@ -1,0 +1,1 @@
+Pojam determinante trećeg reda se uvodi u vezi sa određivanjem rešenja sistema tri linearne jednačine s tri nepoznate.

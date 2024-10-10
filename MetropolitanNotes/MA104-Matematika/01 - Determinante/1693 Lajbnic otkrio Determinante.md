@@ -1,0 +1,1 @@
+Determinante je prvi otkrio i proučavao ispitujući rešenja sistema linearnih jednačina

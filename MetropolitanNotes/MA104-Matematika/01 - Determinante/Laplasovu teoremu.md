@@ -1,0 +1,1 @@
+izračunavate determinante reda višeg od tri (ona se može koristiti i za izračunavanje determinante trećeg reda)
