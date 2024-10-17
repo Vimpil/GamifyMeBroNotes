@@ -9,104 +9,18 @@
         "dimension": 69.11764705882352,
         "children": [
           {
-            "id": "5ea9b8677eb88a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/1693 Lajbnic otkrio Determinante.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200a5054cfdaa388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/1750 Kramer dao pravilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6215c3d1843abc79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/Pojam determinante drugog reda.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "fe4c186e54584f46"
-          },
-          {
-            "id": "552cfe656516c69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/Pojam determinante drugog reda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89c24067c16b6787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/Pojam determinante trećeg reda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ae44c0e325b301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/Determinanta trećeg reda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc48e937886baaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Cime se bavi Racunarske nauke.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed9ba087dac59a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Trendovi u racunarstvu.md",
+                "file": "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "2a08f86b62a72499",
@@ -119,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MetropolitanNotes/MA104-Matematika/01 - Determinante/Pojam determinante drugog reda.md",
+                "file": "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,12 +56,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012122,
+                  "scale": 0.08317427835927557,
                   "close": true
                 }
               }
-            },
-            "group": "fe4c186e54584f46"
+            }
           }
         ]
       }
@@ -215,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Trendovi u racunarstvu.md",
+                "file": "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Trendovi u racunarstvu.md",
+                "file": "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Trendovi u racunarstvu.md"
+                "file": "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md"
               }
             }
           }
@@ -278,8 +191,15 @@
   },
   "active": "ed9ba087dac59a8c",
   "lastOpenFiles": [
-    "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Cime se bavi Racunarsko inzenjerstvo.md",
+    "MetropolitanNotes/MA104-Matematika/01 - Determinante/Izracunavanje determinanti.md",
+    "MetropolitanNotes/NT111-L01/Lecture 1 course introduction/Diagnostic test.md",
+    "MetropolitanNotes/NT111-L01/Lecture 1 course introduction/How to Ask a Question.md",
+    "MetropolitanNotes/NT111-L01/Lecture 1 course introduction/Grammar Revision.md",
+    "MetropolitanNotes/NT111-L01/Lecture 1 course introduction/Question Formation.md",
+    "MetropolitanNotes/NT111-L01/Lecture 1 course introduction",
     "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Trendovi u racunarstvu.md",
+    "MetropolitanNotes/NT111-L01",
+    "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Cime se bavi Racunarsko inzenjerstvo.md",
     "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Cime se bavi racunarska disciplina Informacioni sistemi.md",
     "Cime se bavi softversko inzenjerstvo.md",
     "MetropolitanNotes/IT101-L01/01 - Definicija oblasti računarstva/Cime se bavi Racunarske nauke.md",
@@ -303,13 +223,8 @@
     "MetropolitanNotes/MA104-Matematika/01 - Determinante/1693 Lajbnic otkrio Determinante.md",
     "MetropolitanNotes/MA104-Matematika/01 - Determinante/Pojam determinante trećeg reda.md",
     "Pasted image 20241007154946.png",
-    "Math/Math_excercises/Math-1 The Trigonometric Trials A Star Wars Adventure.md",
     "MetropolitanNotes/MA104-Matematika/01 - Determinante",
     "MetropolitanNotes/MA104-Matematika",
-    "MetropolitanNotes",
-    "Math/Math_excercises/Math-2 The The Binomial  Trials A Star Wars Adventure.md",
-    "Math/Math_excercises/Math-3 The Elliptic Trials A Star Wars Adventure.md",
-    "Math/Trigonometry/Base Trigonometry Formulas.md",
-    "Math/Math_excercises/Math-5 The Circle Trials.md"
+    "MetropolitanNotes"
   ]
 }
