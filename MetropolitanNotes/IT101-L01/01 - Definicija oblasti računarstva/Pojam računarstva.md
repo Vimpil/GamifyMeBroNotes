@@ -9,6 +9,8 @@ medicinski skener - istovremeno masinski inzenjer i inzenjer (proizveo skener) i
 Computing Curricula 2005
 
 ***računarstvo - kao ciljno orijentisanu aktivnost koja zahteva, koristi ili kreira računare***
+[[Trendovi u racunarstvu]]
+[[Cime se bavi Racunarsko inzenjerstvo]]
 
 Tako, računarstvo uključuje projektovanje i građenje hardverskih i softverskih sistema za široku oblast primene; obradu, strukturiranje i upravljanje različitim vrstama informacija; izradu naučnih studija uz upotrebu računara; stvaranje računarskih sistema koji se ponašaju inteligentno; kreiranje i upotrebu komunikacionih medija i medija za zabavu; traženje i dobijanje informacija iz bilo koje posebne oblasti itd. Ova lista je praktično beskrajna, a mogućnosti neizmerne.”
 
@@ -24,5 +26,5 @@ Tako, računarstvo uključuje projektovanje i građenje hardverskih i softverski
 1) Hardware/software проектир создан
 2) обработку, структуризацию и управление различными типами информации
 3) выработка научных предметов из потребностей вычислений
-4) создание и использование медиа для комууникаций и забав; *медиа - средства коммуникации*
+4) создание и использование медиа для коммуникаций и забав; *медиа - средства коммуникации*
 5) требование и добыча информации из любой возможной области

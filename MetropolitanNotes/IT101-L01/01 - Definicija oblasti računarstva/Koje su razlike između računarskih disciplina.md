@@ -8,3 +8,4 @@
 -
 **informacione tehnologije poklapaju sa računarskim naukama u razvoju organizacije sistema i primenama softvera, dok je njegova sistemska infrastruktura u pogledu primene, uvođenja i konfigurisanja bliža softverskom i računarskom inženjerstvu**.
 
+#CSEC 
