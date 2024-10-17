@@ -6,3 +6,7 @@
 - Sajber bezbednost (engl. Cybersecurity)
 - Nauka o podacima (engl. Data science)
 
+[[Cime se bavi Racunarsko inzenjerstvo]]
+[[Cime se bavi Racunarske nauke]]
+[[informacione tehnologije]]
+[[Cime se bavi softversko inzenjerstvo]]
